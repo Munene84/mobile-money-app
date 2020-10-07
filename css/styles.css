@@ -232,3 +232,13 @@ hr {
   cursor: pointer;
 }
 
+input[type="pnumber"],input[type="text"]{
+  border-radius: 25px;
+  border-color: tomato;
+  width: 70%;
+}
+input[type="amount"],input[type="text"]{
+  border-radius: 25px;
+  border-color: tomato;
+  width: 70%;
+}
