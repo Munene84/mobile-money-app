@@ -1,0 +1,5 @@
+business_shortCode ="12345 "
+phone_number = " 0706364901"
+lipa_na_mpesa_passkey = ""
+consumer_key= "2Cw62kcGz3StlrMwESvzQBe8XEsExboX"
+consumer_secret= "G0lk6I5MAVGOI4s3"
